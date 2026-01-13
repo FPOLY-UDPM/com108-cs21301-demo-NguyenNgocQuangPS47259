@@ -13,5 +13,7 @@ int main() {
     scanf("%d",&y);
     z= x+y;
     printf("vậy tổng của X và y là : %d",z);
+    
+    //kết thúc
 return 0;
 }
